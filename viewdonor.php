@@ -34,7 +34,6 @@
         <th>DAddress</th>
         <th>DCNumber</th>
         <th>DBType</th>
-        <th>BMI</th>
         <th>TimeStamp</th>
         </tr>
         <?php
