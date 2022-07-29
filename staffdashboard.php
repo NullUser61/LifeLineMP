@@ -20,8 +20,8 @@
 
         <nav>
             <ul>
-                <li><a href="#">View Donor</a></li>
-                <li><a href="#">View Patient</a></li>
+                <li><a href="viewdonor.php">View Donor</a></li>
+                <li><a href="viewpatient.php">View Patient</a></li>
                 <a class="cta" href="index.html"><button>Logout</button></a>  
             </ul>
         </nav>
