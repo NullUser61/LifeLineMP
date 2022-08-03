@@ -31,7 +31,8 @@
 
    <div class="title">
    <p meth0d=get>Welcome&nbsp</p>
-   <?php session_start();
+   <?php 
+   session_start();
     include "conn.php";
     echo $_SESSION['SName'];
     ?>
